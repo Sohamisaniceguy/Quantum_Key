@@ -9,8 +9,6 @@
 - [Usage](#usage)
 - [Setup TOTP (Two-Factor Authentication)](#setup-totp-two-factor-authentication)
 - [Requirements](#requirements)
-- [License](#license)
-- [Contributing](#contributing)
 - [Contact](#contact)
 
 ## Introduction
